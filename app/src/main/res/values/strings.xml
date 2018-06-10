@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">FarmerApp</string>
+    <string-array name="VegProducts">
+        <item>Carrot</item>
+        <item>Beetroot</item>
+        <item>Tomato</item>
+        <item>Chilli</item>
+        <item>Brinjal</item>
+        <item>Cabage</item>
+        <item>Cauliflower</item>
+        <item>Peas</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Guava</item>
+        <item>Mango</item>
+        <item>Orange</item>
+        <item>Groundnut</item>
+        <item>Oats</item>
+        <item>Rice</item>
+        <item>Urid dal</item>
+        <item>Wheat</item>
+    </string-array>
+    <string name="about">The products delivered are fresh.The product will be delivered within 24 hours.</string>
+    <string name="contact">For queries mail at </string>
+
+
+    <string-array name="FruitProducts">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Guava</item>
+        <item>Mango</item>
+        <item>Orange</item>
+    </string-array>
+
+    <string-array name="CerealProducts">
+        <item>Groundnut</item>
+        <item>Oats</item>
+        <item>Rice</item>
+        <item>Urid dal</item>
+        <item>Wheat</item>
+    </string-array>
+
+    <string-array name="Veg">
+        <item>@drawable/carrot</item>
+        <item>@drawable/beetroot</item>
+        <item>@drawable/tomatoo</item>
+        <item>@drawable/chillii</item>
+        <item>@drawable/brin</item>
+        <item>@drawable/cab</item>
+        <item>@drawable/cauliflower</item>
+        <item>@drawable/peass</item>
+        <item>@drawable/apple</item>
+        <item>@drawable/banana</item>
+        <item>@drawable/guaua</item>
+        <item>@drawable/mango</item>
+        <item>@drawable/orange</item>
+        <item>@drawable/groundnut</item>
+        <item>@drawable/oatss</item>
+        <item>@drawable/ricee</item>
+        <item>@drawable/urid</item>
+        <item>@drawable/wheat</item>
+    </string-array>
+
+    <string-array name="VegCost">
+        <item>12</item>
+        <item>30</item>
+        <item>40</item>
+        <item>80</item>
+        <item>10</item>
+        <item>20</item>
+        <item>15</item>
+        <item>40</item>
+        <item>12</item>
+        <item>30</item>
+        <item>40</item>
+        <item>80</item>
+        <item>20</item>
+        <item>12</item>
+        <item>30</item>
+        <item>40</item>
+        <item>80</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="Fruit">
+        <item>@drawable/apple</item>
+        <item>@drawable/banana</item>
+        <item>@drawable/guaua</item>
+        <item>@drawable/mango</item>
+        <item>@drawable/orange</item>
+    </string-array>
+
+    <string-array name="FruitCost">
+        <item>12</item>
+        <item>30</item>
+        <item>40</item>
+        <item>80</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="Cereals">
+        <item>@drawable/groundnut</item>
+        <item>@drawable/oatss</item>
+        <item>@drawable/ricee</item>
+        <item>@drawable/urid</item>
+        <item>@drawable/wheat</item>
+    </string-array>
+
+    <string-array name="CerealsCost">
+        <item>12</item>
+        <item>30</item>
+        <item>40</item>
+        <item>80</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="pros">
+        <item>Cabbage</item>
+        <item>Celery</item>
+        <item>Onions</item>
+        <item>Broccoli</item>
+        <item>Eggplant</item>
+        <item>Cauliflower</item>
+        <item>Cucumber</item>
+        <item>Green Beans</item>
+        <item>Leafy Vegetables</item>
+        <item>Garlic</item>
+        <item>Mushroom</item>
+        <item>Lettuce</item>
+        <item>Carrot</item>
+        <item>Onions</item>
+        <item>Chili</item>
+        <item>Potato</item>
+        <item>Pumpkin</item>
+        <item>Tomato</item>
+    </string-array>
+    <string name="title_activity_farmer_product">FarmerProduct</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="minimum_password">Password length must be 6 or more</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="inst">Please enter first letter of product name in capital.</string>
+    <string name="inst1">If you are adding cereals, please specify the exact type specific name. </string>
+    <string name="inst2">While adding products, please enter the harvested date. We will verify the freshness of the product and allow you to add products.</string>
+    <string name="inst3">If your product is purchased, we will notify you through email. You can also view the list of products you have added.</string>
+    <string name="inst4">If your product is expired, it will be removed from cart.</string>
+</resources>
